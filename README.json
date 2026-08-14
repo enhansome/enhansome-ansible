@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:02:36Z",
+            "last_commit": "2026-08-14T13:11:47Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15526
+            "stars": 15527
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T09:41:37Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 13997
+            "stars": 14012
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:10:32Z",
+            "last_commit": "2026-08-14T13:26:35Z",
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3896
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-13T10:05:17Z",
+            "last_commit": "2026-08-14T14:00:59Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2684
+            "stars": 2685
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-05-15T14:47:48Z",
             "owner": "fboender",
             "repo": "ansible-cmdb",
-            "stars": 2417
+            "stars": 2416
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T17:05:08Z",
+            "last_commit": "2026-08-14T16:06:48Z",
             "owner": "ansible",
             "repo": "ansible-runner",
             "stars": 1080
@@ -157,7 +157,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:39:46Z",
+            "last_commit": "2026-08-14T16:59:20Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 544
@@ -227,7 +227,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T09:14:31Z",
+            "last_commit": "2026-08-14T06:33:16Z",
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
             "stars": 157
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-26T12:54:51Z",
             "owner": "foundata",
             "repo": "ansible-docsmith",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-13T09:42:14Z",
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3316
+            "stars": 3318
           }
         },
         {
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-11T02:45:26Z",
+            "last_commit": "2026-08-14T09:11:43Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -449,7 +449,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-13T15:25:41Z",
+            "last_commit": "2026-08-14T13:47:21Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:05:33.488Z",
+    "last_updated": "2026-08-14T17:02:05.521Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
     "enhanced_repository": "enhansome/enhansome-ansible",
