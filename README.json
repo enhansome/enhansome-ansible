@@ -14,7 +14,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9852
+            "stars": 9853
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-14T13:11:47Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15527
+            "stars": 15528
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T09:41:37Z",
+            "last_commit": "2026-08-15T11:04:50Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14012
+            "stars": 14016
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T14:00:59Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2685
+            "stars": 2686
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-14T16:06:48Z",
             "owner": "ansible",
             "repo": "ansible-runner",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-05T02:50:31Z",
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -157,7 +157,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:59:20Z",
+            "last_commit": "2026-08-15T02:38:00Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 544
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T02:42:11Z",
+            "last_commit": "2026-08-15T10:59:12Z",
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
             "stars": 53
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-14T09:11:43Z",
+            "last_commit": "2026-08-15T01:27:29Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:02:05.521Z",
+    "last_updated": "2026-08-15T16:34:53.348Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
     "enhanced_repository": "enhansome/enhansome-ansible",
