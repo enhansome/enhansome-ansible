@@ -14,7 +14,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9853
+            "stars": 9856
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-14T13:11:47Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15528
+            "stars": 15526
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T11:04:50Z",
+            "last_commit": "2026-08-16T15:31:44Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14016
+            "stars": 14020
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-14T13:26:35Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3896
+            "stars": 3898
           }
         },
         {
@@ -157,10 +157,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:38:00Z",
+            "last_commit": "2026-08-16T13:31:08Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 544
+            "stars": 545
           }
         },
         {
@@ -345,10 +345,10 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T09:42:14Z",
+            "last_commit": "2026-08-15T18:32:30Z",
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3318
+            "stars": 3319
           }
         },
         {
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-15T01:27:29Z",
+            "last_commit": "2026-08-16T16:06:42Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:34:53.348Z",
+    "last_updated": "2026-08-16T16:35:25.639Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
     "enhanced_repository": "enhansome/enhansome-ansible",
