@@ -63,10 +63,10 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-19T09:39:43Z",
+            "last_commit": "2026-08-19T12:26:03Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14034
+            "stars": 14035
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-19T10:47:53Z",
+            "last_commit": "2026-08-19T14:03:41Z",
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2688
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-15T18:32:30Z",
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3319
+            "stars": 3320
           }
         },
         {
@@ -480,7 +480,7 @@
             "archived": false,
             "id": 457700403,
             "language": "Jinja",
-            "last_commit": "2026-08-19T11:46:54Z",
+            "last_commit": "2026-08-19T14:57:14Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
@@ -543,7 +543,7 @@
                 "archived": false,
                 "id": 655492,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-17T19:10:40Z",
+                "last_commit": "2026-08-19T13:14:19Z",
                 "owner": "magit",
                 "repo": "magit",
                 "stars": 7206
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:14:57.415Z",
+    "last_updated": "2026-08-19T16:40:20.549Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
