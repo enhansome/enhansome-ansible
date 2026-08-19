@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Tutorials and courses to learn Ansible.",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19130362,
             "language": "Python",
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9860
+            "stars": 9861
           }
         },
         {
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8603940,
             "language": "Shell",
             "last_commit": "2023-09-20T06:17:25Z",
             "owner": "leucos",
             "repo": "ansible-tuto",
-            "stars": 2295
+            "stars": 2294
           }
         }
       ],
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": "Tools for and using Ansible.",
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-18T13:03:46Z",
+            "last_commit": "2026-08-19T00:02:00Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15525
+            "stars": 15527
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-18T10:37:09Z",
+            "last_commit": "2026-08-19T09:39:43Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14031
+            "stars": 14034
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12106931,
             "language": "Python",
-            "last_commit": "2026-08-18T15:59:24Z",
+            "last_commit": "2026-08-19T11:46:34Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3898
+            "stars": 3899
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T12:32:24Z",
+            "last_commit": "2026-08-19T10:47:53Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2687
+            "stars": 2688
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37154906,
             "language": "Python",
             "last_commit": "2024-05-15T14:47:48Z",
             "owner": "fboender",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60729995,
             "language": "Python",
             "last_commit": "2026-07-13T13:02:21Z",
             "owner": "ansible-community",
@@ -128,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119996807,
             "language": "Python",
-            "last_commit": "2026-08-14T16:06:48Z",
+            "last_commit": "2026-08-18T18:36:03Z",
             "owner": "ansible",
             "repo": "ansible-runner",
-            "stars": 1082
+            "stars": 1083
           }
         },
         {
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108265239,
             "language": "Python",
             "last_commit": "2026-08-05T02:50:31Z",
             "owner": "haidaraM",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320052445,
             "language": "Python",
             "last_commit": "2026-08-17T09:17:45Z",
             "owner": "ansible",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18399889,
             "language": "Python",
             "last_commit": "2026-02-26T11:56:10Z",
             "owner": "willthames",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36738232,
             "language": "Python",
             "last_commit": "2019-02-06T21:33:36Z",
             "owner": "mantl",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112228107,
             "language": "CSS",
             "last_commit": "2023-12-19T11:25:20Z",
             "owner": "cidrblock",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35478762,
             "language": "PHP",
             "last_commit": "2026-03-25T08:23:49Z",
             "owner": "maschmann",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213608689,
             "language": "Python",
             "last_commit": "2026-08-17T10:23:20Z",
             "owner": "thegeeklab",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150971915,
             "language": "Python",
             "last_commit": "2020-09-22T04:33:33Z",
             "owner": "KeyboardInterrupt",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670234900,
             "language": "Python",
             "last_commit": "2026-08-15T10:59:12Z",
             "owner": "telekom-mms",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644450032,
             "language": "JavaScript",
             "last_commit": "2026-07-08T20:35:11Z",
             "owner": "nbentoumi",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026873192,
             "language": "Python",
             "last_commit": "2026-07-26T12:54:51Z",
             "owner": "foundata",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212769765,
             "language": "Python",
             "last_commit": "2024-02-27T06:59:35Z",
             "owner": "xlab-steampunk",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224669495,
             "language": "Python",
             "last_commit": "2026-08-17T21:50:17Z",
             "owner": "cpeoples",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371398543,
             "language": "Python",
             "last_commit": "2026-08-17T23:28:28Z",
             "owner": "ansible-community",
@@ -335,7 +358,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": "Best practices and other opinions on Ansible.",
       "items": [
         {
           "node_type": "item",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213474,
             "language": "PowerShell",
             "last_commit": "2026-08-15T18:32:30Z",
             "owner": "pester",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811318381,
             "language": "Python",
             "last_commit": "2024-12-03T22:01:34Z",
             "owner": "kksat",
@@ -369,7 +394,7 @@
       "title": "Blog posts and opinions"
     },
     {
-      "description": "",
+      "description": "Awesome production ready Playbooks, Roles and Collections to get you up and running.",
       "items": [
         {
           "node_type": "item",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17749733,
             "language": null,
             "last_commit": "2023-11-17T23:32:18Z",
             "owner": "geerlingguy",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27195864,
             "language": "Python",
             "last_commit": "2026-08-17T09:23:56Z",
             "owner": "openstack",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 218020487,
             "language": "Shell",
             "last_commit": "2025-02-06T08:50:52Z",
             "owner": "thomvaill",
@@ -420,8 +448,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193971997,
             "language": "Jinja",
-            "last_commit": "2026-08-17T14:47:43Z",
+            "last_commit": "2026-08-19T03:58:26Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288676115,
             "language": "HTML",
             "last_commit": "2021-01-03T16:34:16Z",
             "owner": "olivomarco",
@@ -448,8 +478,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457700403,
             "language": "Jinja",
-            "last_commit": "2026-08-18T12:54:32Z",
+            "last_commit": "2026-08-19T11:46:54Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216971171,
             "language": "Python",
             "last_commit": "2022-04-09T14:45:02Z",
             "owner": "HQarroum",
@@ -471,11 +503,107 @@
         }
       ],
       "title": "Playbooks, Roles and Collections"
+    },
+    {
+      "description": "Awesome Integrations into Text Editors and IDE's to make development with/for Ansible easier.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Vim",
+          "description": "An open-source, free command-line text editor. Useful Vim plugins include:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ansible vim",
+              "description": "A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42228479,
+                "language": "Vim Script",
+                "last_commit": "2026-05-20T12:53:52Z",
+                "owner": "pearofducks",
+                "repo": "ansible-vim",
+                "stars": 822
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Emacs",
+          "description": "A free, open-source text editor and IDE that supports auto-indentation, syntax highlighting and a built in terminal shell (among other things):",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "magit-mode",
+              "description": "Git porcelain within Emacs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655492,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-17T19:10:40Z",
+                "owner": "magit",
+                "repo": "magit",
+                "stars": 7206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yaml-mode",
+              "description": "YAML highlighting and syntax checking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180606,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-09T17:24:52Z",
+                "owner": "yoshiki",
+                "repo": "yaml-mode",
+                "stars": 521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jinja2-mode",
+              "description": "Jinja2 highlighting and syntax checking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1738144,
+                "language": "Emacs Lisp",
+                "last_commit": "2023-12-27T11:42:44Z",
+                "owner": "paradoxxxzero",
+                "repo": "jinja2-mode",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flymake-ansible-lint",
+              "description": "Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856023942,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-17T21:58:22Z",
+                "owner": "jamescherti",
+                "repo": "flymake-ansible-lint.el",
+                "stars": 11
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Editor and IDE Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:41:25.833Z",
+    "last_updated": "2026-08-19T12:14:57.415Z",
     "original_repository": "ansible-community/awesome-ansible",
+    "original_repository_id": 111399581,
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
     "enhanced_repository": "enhansome/enhansome-ansible",
     "enhanced_repository_description": null,
