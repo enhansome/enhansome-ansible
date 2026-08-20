@@ -15,7 +15,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9861
+            "stars": 9862
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-19T00:02:00Z",
+            "last_commit": "2026-08-20T13:10:30Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15527
+            "stars": 15529
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-19T12:26:03Z",
+            "last_commit": "2026-08-20T05:50:25Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14035
+            "stars": 14042
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 12106931,
             "language": "Python",
-            "last_commit": "2026-08-19T11:46:34Z",
+            "last_commit": "2026-08-20T14:43:58Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3899
+            "stars": 3898
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-19T14:03:41Z",
+            "last_commit": "2026-08-20T16:41:23Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2688
+            "stars": 2689
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-05-15T14:47:48Z",
             "owner": "fboender",
             "repo": "ansible-cmdb",
-            "stars": 2416
+            "stars": 2415
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-15T18:32:30Z",
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3320
+            "stars": 3321
           }
         },
         {
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 27195864,
             "language": "Python",
-            "last_commit": "2026-08-17T09:23:56Z",
+            "last_commit": "2026-08-20T10:26:58Z",
             "owner": "openstack",
             "repo": "openstack-ansible",
             "stars": 1557
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 193971997,
             "language": "Jinja",
-            "last_commit": "2026-08-19T03:58:26Z",
+            "last_commit": "2026-08-19T18:38:25Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -480,7 +480,7 @@
             "archived": false,
             "id": 457700403,
             "language": "Jinja",
-            "last_commit": "2026-08-19T14:57:14Z",
+            "last_commit": "2026-08-20T15:17:01Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
@@ -543,7 +543,7 @@
                 "archived": false,
                 "id": 655492,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-19T13:14:19Z",
+                "last_commit": "2026-08-20T13:43:19Z",
                 "owner": "magit",
                 "repo": "magit",
                 "stars": 7206
@@ -561,7 +561,7 @@
                 "last_commit": "2026-08-09T17:24:52Z",
                 "owner": "yoshiki",
                 "repo": "yaml-mode",
-                "stars": 521
+                "stars": 522
               }
             },
             {
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:40:20.549Z",
+    "last_updated": "2026-08-20T16:44:41.520Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
