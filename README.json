@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T16:39:42Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15532
+            "stars": 15534
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-21T01:59:28Z",
+            "last_commit": "2026-08-21T18:00:05Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14047
+            "stars": 14048
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T13:07:19Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3898
+            "stars": 3899
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-21T14:27:36Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2691
+            "stars": 2692
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 119996807,
             "language": "Python",
-            "last_commit": "2026-08-18T18:36:03Z",
+            "last_commit": "2026-08-21T19:22:05Z",
             "owner": "ansible",
             "repo": "ansible-runner",
             "stars": 1083
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-17T21:50:17Z",
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -369,7 +369,7 @@
             "archived": false,
             "id": 1213474,
             "language": "PowerShell",
-            "last_commit": "2026-08-15T18:32:30Z",
+            "last_commit": "2026-08-22T12:19:51Z",
             "owner": "pester",
             "repo": "Pester",
             "stars": 3322
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 27195864,
             "language": "Python",
-            "last_commit": "2026-08-21T08:14:14Z",
+            "last_commit": "2026-08-22T13:44:19Z",
             "owner": "openstack",
             "repo": "openstack-ansible",
             "stars": 1558
@@ -449,8 +449,8 @@
           "repo_info": {
             "archived": false,
             "id": 193971997,
-            "language": "Jinja",
-            "last_commit": "2026-08-19T18:38:25Z",
+            "language": "Python",
+            "last_commit": "2026-08-22T14:52:46Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -543,10 +543,10 @@
                 "archived": false,
                 "id": 655492,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-21T14:58:39Z",
+                "last_commit": "2026-08-22T11:58:31Z",
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7208
+                "stars": 7209
               }
             },
             {
@@ -561,7 +561,7 @@
                 "last_commit": "2026-08-09T17:24:52Z",
                 "owner": "yoshiki",
                 "repo": "yaml-mode",
-                "stars": 522
+                "stars": 523
               }
             },
             {
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:44:16.601Z",
+    "last_updated": "2026-08-22T16:34:23.610Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
     "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
