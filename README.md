@@ -96,10 +96,10 @@ For more information about communication, see the [Ansible communication guide](
 
 > Tools for and using Ansible.
 
-* [AWX](https://github.com/ansible/awx) ⭐ 15,535 | 🐛 1,862 | 🌐 Python | 📅 2026-08-24 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
-* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,050 | 🐛 1,072 | 🌐 Go | 📅 2026-08-24 - Modern UI for managing and running Ansible playbooks.
+* [AWX](https://github.com/ansible/awx) ⭐ 15,535 | 🐛 1,863 | 🌐 Python | 📅 2026-08-24 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
+* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,050 | 🐛 1,073 | 🌐 Go | 📅 2026-08-24 - Modern UI for managing and running Ansible playbooks.
 * [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,899 | 🐛 115 | 🌐 Python | 📅 2026-08-24 - Checks Playbooks for best practices and behavior that could potentially be improved.
-* [kics](https://github.com/Checkmarx/kics) ⭐ 2,693 | 🐛 326 | 🌐 Open Policy Agent | 📅 2026-08-24 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+* [kics](https://github.com/Checkmarx/kics) ⭐ 2,693 | 🐛 327 | 🌐 Open Policy Agent | 📅 2026-08-24 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 * [ARA](https://github.com/ansible-community/ara) ⭐ 2,019 | 🐛 133 | 🌐 Python | 📅 2026-07-13 - Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 * [ansible-runner](https://github.com/ansible/ansible-runner) ⭐ 1,083 | 🐛 104 | 🌐 Python | 📅 2026-08-21 - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 * [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) ⭐ 758 | 🐛 5 | 🌐 Python | 📅 2026-08-05 - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
@@ -114,7 +114,7 @@ For more information about communication, see the [Ansible communication guide](
 * [ansibledb](https://github.com/nbentoumi/ansibledb) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08 - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
 * [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 * [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) ⭐ 17 | 🐛 4 | 🌐 Python | 📅 2024-02-27 - A tool that extracts documentation from Ansible modules in the HTML form.
-* [ansible-static-lint](https://github.com/arhuman/ansible-static-lint) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2026-08-24 - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
+* [ansible-static-lint](https://github.com/arhuman/ansible-static-lint) ⭐ 16 | 🐛 0 | 🌐 Go | 📅 2026-08-24 - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
 * [ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-08-24 - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
 * [antsichaut](https://github.com/ansible-community/antsichaut) ⭐ 5 | 🐛 8 | 🌐 Python | 📅 2026-08-17 - Automate the filling of a changelog.yaml used by antsibull-changelog.
 * [Automation Controller](https://www.ansible.com/products/controller) - Formerly Ansible Tower, this Red Hat product helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.

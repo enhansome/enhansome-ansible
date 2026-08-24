@@ -63,7 +63,7 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-24T10:53:19Z",
+            "last_commit": "2026-08-24T16:06:16Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
             "stars": 14050
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-24T10:03:09Z",
+            "last_commit": "2026-08-24T16:20:07Z",
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2693
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-24T03:09:16Z",
             "owner": "arhuman",
             "repo": "ansible-static-lint",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:45.406Z",
+    "last_updated": "2026-08-24T16:49:10.039Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
     "original_repository_sha": "85e1975680f4f884782fc8705fd2da04da8c1ae6",
