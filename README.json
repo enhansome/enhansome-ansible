@@ -48,10 +48,10 @@
             "archived": false,
             "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-21T16:39:42Z",
+            "last_commit": "2026-08-24T12:02:07Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15534
+            "stars": 15535
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-21T18:00:05Z",
+            "last_commit": "2026-08-24T10:53:19Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14049
+            "stars": 14050
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 12106931,
             "language": "Python",
-            "last_commit": "2026-08-21T13:07:19Z",
+            "last_commit": "2026-08-24T08:27:43Z",
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3899
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-23T08:04:11Z",
+            "last_commit": "2026-08-24T10:03:09Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2692
+            "stars": 2693
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-13T13:02:21Z",
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2018
+            "stars": 2019
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 320052445,
             "language": "Python",
-            "last_commit": "2026-08-23T16:30:10Z",
+            "last_commit": "2026-08-24T11:10:59Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 546
+            "stars": 545
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 213608689,
             "language": "Python",
-            "last_commit": "2026-08-17T10:23:20Z",
+            "last_commit": "2026-08-24T10:43:14Z",
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
             "stars": 157
@@ -311,6 +311,21 @@
         },
         {
           "node_type": "item",
+          "title": "ansible-static-lint",
+          "description": "Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1341363831,
+            "language": "Go",
+            "last_commit": "2026-08-24T03:09:16Z",
+            "owner": "arhuman",
+            "repo": "ansible-static-lint",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ansible-security-scanner",
           "description": "Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.",
           "children": [],
@@ -318,7 +333,7 @@
             "archived": false,
             "id": 1224669495,
             "language": "Python",
-            "last_commit": "2026-08-17T21:50:17Z",
+            "last_commit": "2026-08-24T11:32:45Z",
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
             "stars": 10
@@ -405,7 +420,7 @@
             "archived": false,
             "id": 27195864,
             "language": "Python",
-            "last_commit": "2026-08-22T13:44:19Z",
+            "last_commit": "2026-08-24T11:19:37Z",
             "owner": "openstack",
             "repo": "openstack-ansible",
             "stars": 1558
@@ -465,7 +480,7 @@
             "archived": false,
             "id": 457700403,
             "language": "Jinja",
-            "last_commit": "2026-08-21T15:14:50Z",
+            "last_commit": "2026-08-24T06:22:30Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
@@ -492,6 +507,21 @@
     {
       "description": "Awesome Integrations into Text Editors and IDE's to make development with/for Ansible easier.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "Ansible Language Server",
+          "description": "Language Server that adds support for Ansible, to compatible Editors.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 389989116,
+            "language": "TypeScript",
+            "last_commit": "2024-10-09T18:11:47Z",
+            "owner": "ansible",
+            "repo": "ansible-language-server",
+            "stars": 250
+          }
+        },
         {
           "node_type": "group",
           "title": "Vim",
@@ -586,10 +616,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:35:27.858Z",
+    "last_updated": "2026-08-24T14:06:45.406Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
-    "original_repository_sha": "a9aede5266ab7933e1be53ea87ab173cc3cb6949",
+    "original_repository_sha": "85e1975680f4f884782fc8705fd2da04da8c1ae6",
     "enhanced_repository": "enhansome/enhansome-ansible",
     "enhanced_repository_description": null,
     "title": "Awesome Ansible with stars"
