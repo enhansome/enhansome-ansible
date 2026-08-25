@@ -15,7 +15,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9869
+            "stars": 9871
           }
         },
         {
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-24T12:02:07Z",
+            "last_commit": "2026-08-25T00:02:09Z",
             "owner": "ansible",
             "repo": "awx",
             "stars": 15535
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T16:06:16Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14050
+            "stars": 14051
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-24T16:20:07Z",
+            "last_commit": "2026-08-24T21:17:19Z",
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2693
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 320052445,
             "language": "Python",
-            "last_commit": "2026-08-24T11:10:59Z",
+            "last_commit": "2026-08-25T04:49:49Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 545
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 1224669495,
             "language": "Python",
-            "last_commit": "2026-08-24T11:32:45Z",
+            "last_commit": "2026-08-25T02:12:24Z",
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
             "stars": 10
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 371398543,
             "language": "Python",
-            "last_commit": "2026-08-17T23:28:28Z",
+            "last_commit": "2026-08-24T17:58:09Z",
             "owner": "ansible-community",
             "repo": "antsichaut",
             "stars": 5
@@ -369,7 +369,7 @@
             "archived": false,
             "id": 1213474,
             "language": "PowerShell",
-            "last_commit": "2026-08-23T05:58:18Z",
+            "last_commit": "2026-08-24T20:39:21Z",
             "owner": "pester",
             "repo": "Pester",
             "stars": 3323
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 27195864,
             "language": "Python",
-            "last_commit": "2026-08-24T11:19:37Z",
+            "last_commit": "2026-08-24T20:36:45Z",
             "owner": "openstack",
             "repo": "openstack-ansible",
             "stars": 1558
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:49:10.039Z",
+    "last_updated": "2026-08-25T06:00:40.347Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
     "original_repository_sha": "85e1975680f4f884782fc8705fd2da04da8c1ae6",
