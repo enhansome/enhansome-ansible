@@ -15,7 +15,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9871
+            "stars": 9870
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-25T00:02:09Z",
+            "last_commit": "2026-08-25T16:25:08Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15535
+            "stars": 15536
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-24T16:06:16Z",
+            "last_commit": "2026-08-25T16:48:25Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
             "stars": 14051
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 12106931,
             "language": "Python",
-            "last_commit": "2026-08-24T08:27:43Z",
+            "last_commit": "2026-08-25T12:19:31Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3899
+            "stars": 3900
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-24T21:17:19Z",
+            "last_commit": "2026-08-25T13:59:10Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2693
+            "stars": 2694
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 320052445,
             "language": "Python",
-            "last_commit": "2026-08-25T04:49:49Z",
+            "last_commit": "2026-08-25T12:45:47Z",
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 545
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 1224669495,
             "language": "Python",
-            "last_commit": "2026-08-25T02:12:24Z",
+            "last_commit": "2026-08-25T12:53:37Z",
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
             "stars": 10
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-24T20:39:21Z",
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3323
+            "stars": 3324
           }
         },
         {
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:40.347Z",
+    "last_updated": "2026-08-25T16:48:26.580Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
     "original_repository_sha": "85e1975680f4f884782fc8705fd2da04da8c1ae6",
