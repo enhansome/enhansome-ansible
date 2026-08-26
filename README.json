@@ -15,7 +15,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9870
+            "stars": 9873
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-25T16:25:08Z",
+            "last_commit": "2026-08-26T13:15:05Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15536
+            "stars": 15537
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-25T16:48:25Z",
+            "last_commit": "2026-08-26T15:40:51Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14051
+            "stars": 14058
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 12106931,
             "language": "Python",
-            "last_commit": "2026-08-25T12:19:31Z",
+            "last_commit": "2026-08-26T12:56:27Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3900
+            "stars": 3901
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-25T13:59:10Z",
+            "last_commit": "2026-08-25T21:02:29Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2694
+            "stars": 2695
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 213608689,
             "language": "Python",
-            "last_commit": "2026-08-24T10:43:14Z",
+            "last_commit": "2026-08-26T04:05:42Z",
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
             "stars": 157
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 670234900,
             "language": "Python",
-            "last_commit": "2026-08-20T17:16:34Z",
+            "last_commit": "2026-08-26T10:39:15Z",
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
             "stars": 53
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 1213474,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T20:39:21Z",
+            "last_commit": "2026-08-25T17:32:58Z",
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3324
+            "stars": 3326
           }
         },
         {
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 27195864,
             "language": "Python",
-            "last_commit": "2026-08-24T20:36:45Z",
+            "last_commit": "2026-08-26T10:48:50Z",
             "owner": "openstack",
             "repo": "openstack-ansible",
-            "stars": 1558
+            "stars": 1559
           }
         },
         {
@@ -480,7 +480,7 @@
             "archived": false,
             "id": 457700403,
             "language": "Jinja",
-            "last_commit": "2026-08-24T06:22:30Z",
+            "last_commit": "2026-08-26T16:30:08Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
@@ -561,7 +561,7 @@
                 "last_commit": "2026-08-22T11:58:31Z",
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7209
+                "stars": 7210
               }
             },
             {
@@ -603,7 +603,7 @@
                 "archived": false,
                 "id": 856023942,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-17T21:58:22Z",
+                "last_commit": "2026-08-26T02:49:15Z",
                 "owner": "jamescherti",
                 "repo": "flymake-ansible-lint.el",
                 "stars": 11
@@ -616,10 +616,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:48:26.580Z",
+    "last_updated": "2026-08-26T16:53:56.844Z",
     "original_repository": "ansible-community/awesome-ansible",
     "original_repository_id": 111399581,
-    "original_repository_sha": "85e1975680f4f884782fc8705fd2da04da8c1ae6",
+    "original_repository_sha": "3d8c7c901775e463bd0d22a1a3cd9ed6282e57b8",
     "enhanced_repository": "enhansome/enhansome-ansible",
     "enhanced_repository_description": null,
     "title": "Awesome Ansible with stars"
