@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible for DevOps examples.",
+            "homepage": "https://www.ansiblefordevops.com",
             "id": 19130362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-25T06:03:59Z",
+            "open_issues": 119,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9874
+            "stars": 9875,
+            "topics": [
+              "amazon",
+              "ansible",
+              "aws",
+              "book",
+              "devops",
+              "docker",
+              "examples",
+              "jeff-geerling",
+              "kindle",
+              "kubernetes",
+              "leanpub",
+              "playbook",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -26,12 +45,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible tutorial",
+            "homepage": null,
             "id": 8603940,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-20T06:17:25Z",
+            "open_issues": 9,
             "owner": "leucos",
             "repo": "ansible-tuto",
-            "stars": 2294
+            "stars": 2294,
+            "topics": [
+              "ansible",
+              "tutorial",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         }
@@ -48,12 +76,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+            "homepage": null,
             "id": 91594105,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:18:22Z",
+            "open_issues": 1861,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15539
+            "stars": 15539,
+            "topics": [
+              "ansible",
+              "automation",
+              "awx",
+              "django",
+              "django-rest-framework",
+              "hacktoberfest",
+              "python",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -64,12 +106,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+            "homepage": "https://semaphoreui.com",
             "id": 23267883,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:34:05Z",
+            "open_issues": 1075,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14067
+            "stars": 14067,
+            "topics": [
+              "ansible",
+              "awx",
+              "ci",
+              "cicd",
+              "devops",
+              "docker",
+              "docker-ui",
+              "go",
+              "golang",
+              "jenkins",
+              "opentofu",
+              "pulumi",
+              "terraform",
+              "terraform-ui",
+              "terragrunt"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -80,12 +143,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you",
+            "homepage": "https://ansible.readthedocs.io/projects/lint/",
             "id": 12106931,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T14:25:36Z",
+            "open_issues": 113,
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3904
+            "stars": 3904,
+            "topics": [
+              "ansible",
+              "ansible-dev-tools",
+              "ansible-lint",
+              "dot-config",
+              "hacktoberfest",
+              "pep-621",
+              "pre-commit-hook"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -96,12 +172,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+            "homepage": "https://kics.io",
             "id": 278200746,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:02:29Z",
+            "open_issues": 315,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2696
+            "stars": 2696,
+            "topics": [
+              "appsec",
+              "cloudnative",
+              "devsecops",
+              "golang",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "open-policy-agent",
+              "security",
+              "security-tools",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -112,12 +206,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARA Records Ansible and makes it easier to understand and troubleshoot.",
+            "homepage": "https://ara.recordsansible.org",
             "id": 60729995,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-13T13:02:21Z",
+            "open_issues": 133,
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2020
+            "stars": 2020,
+            "topics": [
+              "ansible",
+              "api",
+              "ara",
+              "django",
+              "django-rest-framework",
+              "interface",
+              "python",
+              "reporting"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -128,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.",
+            "homepage": "https://ansible-runner.rtfd.io",
             "id": 119996807,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:59:28Z",
+            "open_issues": 105,
             "owner": "ansible",
             "repo": "ansible-runner",
-            "stars": 1083
+            "stars": 1083,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -144,12 +257,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool to create a graph representing your Ansible playbook tasks and roles",
+            "homepage": null,
             "id": 108265239,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T02:50:31Z",
+            "open_issues": 5,
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 759
+            "stars": 759,
+            "topics": [
+              "ansible",
+              "ansible-playbook",
+              "ansible-role",
+              "grapher",
+              "graphviz",
+              "playbook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -160,12 +286,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A text-based user interface (TUI) for Ansible.",
+            "homepage": "https://ansible.readthedocs.io/projects/navigator/",
             "id": 320052445,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:58:24Z",
+            "open_issues": 107,
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "ansible",
+              "ansible-commands",
+              "ansible-dev-tools",
+              "ansible-devtools",
+              "curses",
+              "hacktoberfest",
+              "inventory",
+              "network",
+              "network-automation",
+              "pep-621",
+              "playbook",
+              "python",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -176,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 18399889,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-26T11:56:10Z",
+            "open_issues": 12,
             "owner": "willthames",
             "repo": "ansible-inventory-grapher",
-            "stars": 470
+            "stars": 470,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -192,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ansible dynamic inventory script for parsing Terraform state files",
+            "homepage": null,
             "id": 36738232,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-02-06T21:33:36Z",
+            "open_issues": 19,
             "owner": "mantl",
             "repo": "terraform.py",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -208,12 +363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template designer for automation",
+            "homepage": null,
             "id": 112228107,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-12-19T11:25:20Z",
+            "open_issues": 5,
             "owner": "cidrblock",
             "repo": "td4a",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "ansible",
+              "automation",
+              "jinja2",
+              "jinja2-templates",
+              "network"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -224,12 +390,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "php oop wrapper for ansible provisioning tool",
+            "homepage": null,
             "id": 35478762,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-25T08:23:49Z",
+            "open_issues": 8,
             "owner": "maschmann",
             "repo": "php-ansible",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "ansible",
+              "php"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -240,12 +414,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Annotation based documentation for your Ansible roles",
+            "homepage": "https://ansible-doctor.geekdocs.de",
             "id": 213608689,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T18:49:57Z",
+            "open_issues": 4,
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "ansible",
+              "automation",
+              "documentation",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -256,12 +440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any Excel Sheet into an Ansible Inventory",
+            "homepage": null,
             "id": 150971915,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-22T04:33:33Z",
+            "open_issues": 5,
             "owner": "KeyboardInterrupt",
             "repo": "ansible_xlsx_inventory",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "ansible",
+              "dynamic-inventory",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -272,12 +465,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate documentation automatically from an Ansible role's metadata",
+            "homepage": null,
             "id": 670234900,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:50:31Z",
+            "open_issues": 8,
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "ansible",
+              "ansible-role",
+              "ansible-toolset",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -288,12 +491,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AnsibleDB is Flask API Web server uses MongoDB as Database to store Ansible reports and ansible facts, this tool can be used to query hosts and facters managed Ansible as well search ansible logs.",
+            "homepage": "https://nbentoumi.github.io/ansibledb/",
             "id": 644450032,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T20:35:11Z",
+            "open_issues": 1,
             "owner": "nbentoumi",
             "repo": "ansibledb",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "ansible",
+              "ansibledb"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -304,12 +515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating Ansible role documentation (using argument_specs.yml)",
+            "homepage": "https://foundata.com/en/projects/ansible-docsmith/",
             "id": 1026873192,
             "language": "Python",
-            "last_commit": "2026-08-28T16:10:49Z",
+            "license": null,
+            "last_commit": "2026-08-29T00:48:50Z",
+            "open_issues": 0,
             "owner": "foundata",
             "repo": "ansible-docsmith",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "ansible",
+              "documentation",
+              "pip",
+              "toolbox"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -320,12 +541,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
+            "homepage": "https://github.com/arhuman/ansible-static-lint  github-actions",
             "id": 1341363831,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:36:18Z",
+            "open_issues": 0,
             "owner": "arhuman",
             "repo": "ansible-static-lint",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "ansible",
+              "ansible-lint",
+              "ci",
+              "devops",
+              "devops-tools",
+              "github-actions",
+              "golang",
+              "linter",
+              "pre-commit",
+              "sarif",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -336,12 +574,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract documentation from Ansible modules",
+            "homepage": null,
             "id": 212769765,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-27T06:59:35Z",
+            "open_issues": 5,
             "owner": "xlab-steampunk",
             "repo": "ansible-doc-extractor",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ansible",
+              "ansible-modules",
+              "documentation",
+              "python",
+              "restructuredtext"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -352,12 +601,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000+ rules across 30+ categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed.",
+            "homepage": "https://cpeoples.github.io/ansible-security-scanner/",
             "id": 1224669495,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T12:53:37Z",
+            "open_issues": 0,
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "ansible",
+              "ansible-playbook",
+              "ansible-roles",
+              "cli",
+              "cyclonedx",
+              "devsecops",
+              "hacktoberfest",
+              "iac-security",
+              "infrastructure-as-code",
+              "python",
+              "sarif",
+              "sast",
+              "sbom",
+              "security",
+              "security-scanner",
+              "security-tools",
+              "slsa",
+              "static-analysis",
+              "supply-chain-security",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -368,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Antsichaut aims to automate the filling of a changelog.yaml used by antsibull-changelog",
+            "homepage": "https://pypi.org/project/antsichaut/",
             "id": 371398543,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:58:09Z",
+            "open_issues": 8,
             "owner": "ansible-community",
             "repo": "antsichaut",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         }
@@ -390,12 +670,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pester is the ubiquitous test and mock framework for PowerShell.",
+            "homepage": "https://pester.dev/",
             "id": 1213474,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T17:32:58Z",
+            "open_issues": 69,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3327
+            "stars": 3327,
+            "topics": [
+              "assertions",
+              "bdd",
+              "bdd-framework",
+              "mock",
+              "mocking",
+              "pester-tests",
+              "powershell",
+              "powershell-tests",
+              "tdd",
+              "tdd-framework",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -406,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhancing Ansible Development with SOLID Principles",
+            "homepage": null,
             "id": 811318381,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-03T22:01:34Z",
+            "open_issues": 1,
             "owner": "kksat",
             "repo": "SOLID-Ansible",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         }
@@ -428,12 +730,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible examples using Vagrant to deploy to local VMs.",
+            "homepage": null,
             "id": 17749733,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-17T23:32:18Z",
+            "open_issues": 1,
             "owner": "geerlingguy",
             "repo": "ansible-vagrant-examples",
-            "stars": 2105
+            "stars": 2105,
+            "topics": [
+              "ansible",
+              "devops",
+              "docker",
+              "examples",
+              "ruby",
+              "vagrant",
+              "vms"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -444,12 +759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/openstack-ansible",
             "id": 27195864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:47:22Z",
+            "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-ansible",
-            "stars": 1559
+            "stars": 1559,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -460,12 +780,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code",
+            "homepage": null,
             "id": 218020487,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-02-06T08:50:52Z",
+            "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 779
+            "stars": 779,
+            "topics": [
+              "ansible",
+              "bash",
+              "boilerplate",
+              "devops",
+              "docker",
+              "docker-swarm",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "noops",
+              "tads",
+              "terraform",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -476,12 +815,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coherent Ansible roles collection to simply deploy clusters of nodes.",
+            "homepage": "https://bluebanquise.com",
             "id": 193971997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:22:00Z",
+            "open_issues": 38,
             "owner": "bluebanquise",
             "repo": "bluebanquise",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "ansible",
+              "baremetal",
+              "clusters",
+              "hpc",
+              "linux",
+              "pxe"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -492,12 +843,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, perfect setup of a Linux machine via Ansible",
+            "homepage": null,
             "id": 288676115,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-01-03T16:34:16Z",
+            "open_issues": 0,
             "owner": "olivomarco",
             "repo": "my-ansible-linux-setup",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "ansible-playbook",
+              "docker",
+              "hardened",
+              "linux-server",
+              "linux-setup",
+              "perfect-server"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -508,12 +871,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible Collection of roles, playbooks & plugins for Linux-based cloud infrastructure. Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM & more. Bitwarden & Cloud integration.",
+            "homepage": "https://linuxfabrik.ch",
             "id": 457700403,
             "language": "Jinja",
+            "license": "Unlicense",
             "last_commit": "2026-08-28T18:49:34Z",
+            "open_issues": 31,
             "owner": "Linuxfabrik",
             "repo": "lfops",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "ansible",
+              "ansible-collection",
+              "ansible-playbooks",
+              "ansible-plugins",
+              "ansible-roles",
+              "automation",
+              "cloud",
+              "data-center",
+              "debian",
+              "devops",
+              "hardening",
+              "infrastructure-as-code",
+              "lfops",
+              "linux",
+              "linuxfabrik",
+              "playbook",
+              "rhel",
+              "self-hosted",
+              "sysadmin",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -524,12 +913,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":briefcase: An ansible role to provision physical and virtual hosts with the AWS SSM agent.",
+            "homepage": null,
             "id": 216971171,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-09T14:45:02Z",
+            "open_issues": 1,
             "owner": "HQarroum",
             "repo": "ansible-ssm",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ansible",
+              "aws",
+              "industrial-iot",
+              "management",
+              "ssm",
+              "system",
+              "systems-manager"
+            ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         }
@@ -546,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚧 Ansible Language Server codebase is now included in vscode-ansible repository",
+            "homepage": "https://github.com/ansible/vscode-ansible",
             "id": 389989116,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-09T18:11:47Z",
+            "open_issues": 0,
             "owner": "ansible",
             "repo": "ansible-language-server",
-            "stars": 250
+            "stars": 250,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
         },
@@ -567,12 +974,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vim plugin for syntax highlighting Ansible's common filetypes",
+                "homepage": null,
                 "id": 42228479,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-05-20T12:53:52Z",
+                "open_issues": 3,
                 "owner": "pearofducks",
                 "repo": "ansible-vim",
-                "stars": 822
+                "stars": 822,
+                "topics": [
+                  "ansible",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
             }
@@ -590,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's Magit! A Git Porcelain inside Emacs.",
+                "homepage": "https://magit.vc",
                 "id": 655492,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T11:58:31Z",
+                "open_issues": 10,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7212
+                "stars": 7212,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
             },
@@ -606,12 +1026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The emacs major mode for editing files in the YAML data serialization format.",
+                "homepage": null,
                 "id": 180606,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T00:50:35Z",
+                "open_issues": 19,
                 "owner": "yoshiki",
                 "repo": "yaml-mode",
-                "stars": 523
+                "stars": 523,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
             },
@@ -622,12 +1047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jinja2 mode for emacs ",
+                "homepage": "http://paradoxxxzero.github.com/jinja2-mode",
                 "id": 1738144,
                 "language": "Emacs Lisp",
+                "license": null,
                 "last_commit": "2023-12-27T11:42:44Z",
+                "open_issues": 12,
                 "owner": "paradoxxxzero",
                 "repo": "jinja2-mode",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
             },
@@ -638,12 +1068,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flymake backend for ansible-lint: Real-time syntax and style checking for Ansible playbooks and roles within Emacs.",
+                "homepage": "https://github.com/jamescherti/flymake-ansible-lint.el",
                 "id": 856023942,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T02:49:15Z",
+                "open_issues": 1,
                 "owner": "jamescherti",
                 "repo": "flymake-ansible-lint.el",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ansible-lint",
+                  "emacs",
+                  "emacs-package",
+                  "flycheck",
+                  "flymake"
+                ]
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
             }
@@ -654,15 +1095,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:31:41.776Z",
+    "last_updated": "2026-08-29T04:25:47.365Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Ansible List",
+      "homepage": null,
       "id": 111399581,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-25T18:34:43Z",
+      "open_issues": 6,
       "owner": "ansible-community",
       "repo": "awesome-ansible",
-      "stars": 1935
+      "stars": 1935,
+      "topics": [
+        "ansible",
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "learning-ansible"
+      ]
     },
     "original_repository_sha": "3d8c7c901775e463bd0d22a1a3cd9ed6282e57b8",
     "enhanced_repository": "enhansome/enhansome-ansible",

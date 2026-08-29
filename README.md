@@ -59,7 +59,7 @@ For more information about communication, see the [Ansible communication guide](
 
 > Tutorials and courses to learn Ansible.
 
-* [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,874 | 🐛 119 | 🌐 Python | 📅 2025-05-25 - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
+* [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,875 | 🐛 119 | 🌐 Python | 📅 2025-05-25 - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
 * [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) ⭐ 2,294 | 🐛 9 | 🌐 Shell | 📅 2023-09-20 - 12 Step Tutorial for Ansible.
 * [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible) - This Tutorial goes over how to use Ansible to manage remote servers.
 * [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
@@ -112,7 +112,7 @@ For more information about communication, see the [Ansible communication guide](
 * [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2020-09-22 - Turn any Excel Spreadsheet into an Ansible Inventory.
 * [aar-doc - Automated Ansible Role Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) ⭐ 53 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - Generate documentation automatically from an Ansible role's metadata.
 * [ansibledb](https://github.com/nbentoumi/ansibledb) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-08 - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
-* [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
+* [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 * [ansible-static-lint](https://github.com/arhuman/ansible-static-lint) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2026-08-28 - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
 * [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) ⭐ 17 | 🐛 5 | 🌐 Python | 📅 2024-02-27 - A tool that extracts documentation from Ansible modules in the HTML form.
 * [ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-25 - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
