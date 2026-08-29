@@ -16,7 +16,8 @@
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
             "stars": 9874
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "leucos",
             "repo": "ansible-tuto",
             "stars": 2294
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         }
       ],
       "title": "Tutorials"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 91594105,
             "language": "Python",
-            "last_commit": "2026-08-28T00:01:56Z",
+            "last_commit": "2026-08-28T13:18:22Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15537
-          }
+            "stars": 15539
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 23267883,
             "language": "Go",
-            "last_commit": "2026-08-27T19:44:17Z",
+            "last_commit": "2026-08-28T17:34:05Z",
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14061
-          }
+            "stars": 14067
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-27T14:25:36Z",
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3902
-          }
+            "stars": 3904
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-25T21:02:29Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2695
-          }
+            "stars": 2696
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-07-13T13:02:21Z",
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2019
-          }
+            "stars": 2020
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 119996807,
             "language": "Python",
-            "last_commit": "2026-08-21T19:22:05Z",
+            "last_commit": "2026-08-28T14:59:28Z",
             "owner": "ansible",
             "repo": "ansible-runner",
             "stars": 1083
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-05T02:50:31Z",
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 758
-          }
+            "stars": 759
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "willthames",
             "repo": "ansible-inventory-grapher",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "mantl",
             "repo": "terraform.py",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "cidrblock",
             "repo": "td4a",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "maschmann",
             "repo": "php-ansible",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 213608689,
             "language": "Python",
-            "last_commit": "2026-08-26T04:05:42Z",
+            "last_commit": "2026-08-28T18:49:57Z",
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "KeyboardInterrupt",
             "repo": "ansible_xlsx_inventory",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "nbentoumi",
             "repo": "ansibledb",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -288,11 +306,12 @@
             "archived": false,
             "id": 1026873192,
             "language": "Python",
-            "last_commit": "2026-07-26T12:54:51Z",
+            "last_commit": "2026-08-28T16:10:49Z",
             "owner": "foundata",
             "repo": "ansible-docsmith",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 1341363831,
             "language": "Go",
-            "last_commit": "2026-08-24T03:09:16Z",
+            "last_commit": "2026-08-28T23:36:18Z",
             "owner": "arhuman",
             "repo": "ansible-static-lint",
-            "stars": 18
-          }
+            "stars": 19
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "xlab-steampunk",
             "repo": "ansible-doc-extractor",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "ansible-community",
             "repo": "antsichaut",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         }
       ],
       "title": "Tools"
@@ -373,7 +396,8 @@
             "owner": "pester",
             "repo": "Pester",
             "stars": 3327
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "kksat",
             "repo": "SOLID-Ansible",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         }
       ],
       "title": "Blog posts and opinions"
@@ -409,7 +434,8 @@
             "owner": "geerlingguy",
             "repo": "ansible-vagrant-examples",
             "stars": 2105
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -420,11 +446,12 @@
             "archived": false,
             "id": 27195864,
             "language": "Python",
-            "last_commit": "2026-08-27T19:13:04Z",
+            "last_commit": "2026-08-28T11:47:22Z",
             "owner": "openstack",
             "repo": "openstack-ansible",
             "stars": 1559
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
             "stars": 779
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "olivomarco",
             "repo": "my-ansible-linux-setup",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -480,11 +510,12 @@
             "archived": false,
             "id": 457700403,
             "language": "Jinja",
-            "last_commit": "2026-08-27T16:09:25Z",
+            "last_commit": "2026-08-28T18:49:34Z",
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "HQarroum",
             "repo": "ansible-ssm",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         }
       ],
       "title": "Playbooks, Roles and Collections"
@@ -520,7 +552,8 @@
             "owner": "ansible",
             "repo": "ansible-language-server",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
         },
         {
           "node_type": "group",
@@ -540,7 +573,8 @@
                 "owner": "pearofducks",
                 "repo": "ansible-vim",
                 "stars": 822
-              }
+              },
+              "first_seen": "2026-08-29T00:31:41.776Z"
             }
           ]
         },
@@ -562,7 +596,8 @@
                 "owner": "magit",
                 "repo": "magit",
                 "stars": 7212
-              }
+              },
+              "first_seen": "2026-08-29T00:31:41.776Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "yoshiki",
                 "repo": "yaml-mode",
                 "stars": 523
-              }
+              },
+              "first_seen": "2026-08-29T00:31:41.776Z"
             },
             {
               "node_type": "item",
@@ -592,7 +628,8 @@
                 "owner": "paradoxxxzero",
                 "repo": "jinja2-mode",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:31:41.776Z"
             },
             {
               "node_type": "item",
@@ -607,7 +644,8 @@
                 "owner": "jamescherti",
                 "repo": "flymake-ansible-lint.el",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:31:41.776Z"
             }
           ]
         }
@@ -616,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:09.855Z",
+    "last_updated": "2026-08-29T00:31:41.776Z",
     "original_repository_info": {
       "archived": false,
       "id": 111399581,
