@@ -82,7 +82,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T00:02:07Z",
-            "open_issues": 1869,
+            "open_issues": 1871,
             "owner": "ansible",
             "repo": "awx",
             "stars": 15545,
@@ -112,10 +112,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-05T12:29:13Z",
-            "open_issues": 1081,
+            "open_issues": 1080,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14100,
+            "stars": 14103,
             "topics": [
               "ansible",
               "awx",
@@ -152,7 +152,7 @@
             "open_issues": 112,
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3906,
+            "stars": 3907,
             "topics": [
               "ansible",
               "ansible-dev-tools",
@@ -215,7 +215,7 @@
             "open_issues": 133,
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2020,
+            "stars": 2021,
             "topics": [
               "ansible",
               "api",
@@ -524,7 +524,7 @@
             "open_issues": 1,
             "owner": "foundata",
             "repo": "ansible-docsmith",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "ansible",
               "documentation",
@@ -679,7 +679,7 @@
             "open_issues": 65,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3331,
+            "stars": 3330,
             "topics": [
               "assertions",
               "bdd",
@@ -880,7 +880,7 @@
             "open_issues": 33,
             "owner": "Linuxfabrik",
             "repo": "lfops",
-            "stars": 88,
+            "stars": 90,
             "topics": [
               "ansible",
               "ansible-collection",
@@ -1014,7 +1014,7 @@
                 "open_issues": 11,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7217,
+                "stars": 7218,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:08:41.980Z",
+    "last_updated": "2026-09-06T18:13:13.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
@@ -1107,7 +1107,7 @@
       "open_issues": 8,
       "owner": "ansible-community",
       "repo": "awesome-ansible",
-      "stars": 1937,
+      "stars": 1938,
       "topics": [
         "ansible",
         "awesome",
