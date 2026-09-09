@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9882,
+            "stars": 9881,
             "topics": [
               "amazon",
               "ansible",
@@ -54,7 +54,7 @@
             "open_issues": 9,
             "owner": "leucos",
             "repo": "ansible-tuto",
-            "stars": 2295,
+            "stars": 2296,
             "topics": [
               "ansible",
               "tutorial",
@@ -81,8 +81,8 @@
             "id": 91594105,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T12:02:08Z",
-            "open_issues": 1872,
+            "last_commit": "2026-09-09T14:48:03Z",
+            "open_issues": 1870,
             "owner": "ansible",
             "repo": "awx",
             "stars": 15546,
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T11:03:47Z",
-            "open_issues": 1076,
+            "last_commit": "2026-09-09T17:36:32Z",
+            "open_issues": 1077,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14116,
+            "stars": 14122,
             "topics": [
               "ansible",
               "awx",
@@ -148,11 +148,11 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T11:48:47Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-09T10:27:20Z",
+            "open_issues": 109,
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3906,
+            "stars": 3905,
             "topics": [
               "ansible",
               "ansible-dev-tools",
@@ -177,11 +177,11 @@
             "id": 278200746,
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T16:45:45Z",
-            "open_issues": 318,
+            "last_commit": "2026-09-09T15:49:46Z",
+            "open_issues": 319,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2698,
+            "stars": 2699,
             "topics": [
               "appsec",
               "cloudnative",
@@ -215,7 +215,7 @@
             "open_issues": 133,
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2021,
+            "stars": 2020,
             "topics": [
               "ansible",
               "api",
@@ -266,7 +266,7 @@
             "open_issues": 5,
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 761,
+            "stars": 760,
             "topics": [
               "ansible",
               "ansible-playbook",
@@ -510,6 +510,39 @@
         },
         {
           "node_type": "item",
+          "title": "ansible-static-lint",
+          "description": "Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
+            "homepage": "https://github.com/arhuman/ansible-static-lint  github-actions",
+            "id": 1341363831,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-05T02:26:58Z",
+            "open_issues": 1,
+            "owner": "arhuman",
+            "repo": "ansible-static-lint",
+            "stars": 23,
+            "topics": [
+              "ansible",
+              "ansible-lint",
+              "ci",
+              "devops",
+              "devops-tools",
+              "github-actions",
+              "golang",
+              "linter",
+              "pre-commit",
+              "sarif",
+              "static-analysis"
+            ]
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ansible DocSmith",
           "description": "Generates Ansible role documentation from argument_specs.yml for READMEs and default variable files.",
           "children": [],
@@ -530,39 +563,6 @@
               "documentation",
               "pip",
               "toolbox"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ansible-static-lint",
-          "description": "Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
-            "homepage": "https://github.com/arhuman/ansible-static-lint  github-actions",
-            "id": 1341363831,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-09-05T02:26:58Z",
-            "open_issues": 0,
-            "owner": "arhuman",
-            "repo": "ansible-static-lint",
-            "stars": 21,
-            "topics": [
-              "ansible",
-              "ansible-lint",
-              "ci",
-              "devops",
-              "devops-tools",
-              "github-actions",
-              "golang",
-              "linter",
-              "pre-commit",
-              "sarif",
-              "static-analysis"
             ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -675,8 +675,8 @@
             "id": 1213474,
             "language": "PowerShell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T15:12:22Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-09T19:04:26Z",
+            "open_issues": 66,
             "owner": "pester",
             "repo": "Pester",
             "stars": 3332,
@@ -876,8 +876,8 @@
             "id": 457700403,
             "language": "Jinja",
             "license": "Unlicense",
-            "last_commit": "2026-09-08T18:25:16Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-09T18:05:23Z",
+            "open_issues": 34,
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 90,
@@ -1014,7 +1014,7 @@
                 "open_issues": 11,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7221,
+                "stars": 7220,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:23:31.668Z",
+    "last_updated": "2026-09-09T19:13:31.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
