@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9883,
+            "stars": 9884,
             "topics": [
               "amazon",
               "ansible",
@@ -85,7 +85,7 @@
             "open_issues": 1871,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15550,
+            "stars": 15552,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T17:03:57Z",
-            "open_issues": 1023,
+            "last_commit": "2026-09-12T12:33:07Z",
+            "open_issues": 1026,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14133,
+            "stars": 14135,
             "topics": [
               "ansible",
               "awx",
@@ -181,7 +181,7 @@
             "open_issues": 316,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2699,
+            "stars": 2698,
             "topics": [
               "appsec",
               "cloudnative",
@@ -520,8 +520,8 @@
             "id": 1341363831,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T09:23:59Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-12T02:00:54Z",
+            "open_issues": 0,
             "owner": "arhuman",
             "repo": "ansible-static-lint",
             "stars": 23,
@@ -679,7 +679,7 @@
             "open_issues": 66,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3335,
+            "stars": 3336,
             "topics": [
               "assertions",
               "bdd",
@@ -1014,7 +1014,7 @@
                 "open_issues": 11,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7222,
+                "stars": 7223,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:07:03.180Z",
+    "last_updated": "2026-09-12T18:17:44.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
