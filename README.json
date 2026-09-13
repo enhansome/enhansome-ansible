@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9884,
+            "stars": 9885,
             "topics": [
               "amazon",
               "ansible",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:33:07Z",
-            "open_issues": 1026,
+            "last_commit": "2026-09-13T01:57:37Z",
+            "open_issues": 1028,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14135,
+            "stars": 14139,
             "topics": [
               "ansible",
               "awx",
@@ -181,7 +181,7 @@
             "open_issues": 316,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2698,
+            "stars": 2699,
             "topics": [
               "appsec",
               "cloudnative",
@@ -419,8 +419,8 @@
             "id": 213608689,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T21:12:30Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-13T04:11:26Z",
+            "open_issues": 8,
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
             "stars": 157,
@@ -880,7 +880,7 @@
             "open_issues": 54,
             "owner": "Linuxfabrik",
             "repo": "lfops",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "ansible",
               "ansible-collection",
@@ -980,7 +980,7 @@
                 "language": "Vim Script",
                 "license": "MIT",
                 "last_commit": "2026-05-20T12:53:52Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "pearofducks",
                 "repo": "ansible-vim",
                 "stars": 822,
@@ -1014,7 +1014,7 @@
                 "open_issues": 11,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7223,
+                "stars": 7224,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:17:44.044Z",
+    "last_updated": "2026-09-13T18:43:47.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
