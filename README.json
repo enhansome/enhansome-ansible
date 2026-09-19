@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9884,
+            "stars": 9885,
             "topics": [
               "amazon",
               "ansible",
@@ -54,7 +54,7 @@
             "open_issues": 9,
             "owner": "leucos",
             "repo": "ansible-tuto",
-            "stars": 2296,
+            "stars": 2295,
             "topics": [
               "ansible",
               "tutorial",
@@ -85,7 +85,7 @@
             "open_issues": 1872,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15559,
+            "stars": 15562,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:19:45Z",
-            "open_issues": 1030,
+            "last_commit": "2026-09-19T12:10:25Z",
+            "open_issues": 1031,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14153,
+            "stars": 14155,
             "topics": [
               "ansible",
               "awx",
@@ -148,11 +148,11 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T03:09:10Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-19T11:00:08Z",
+            "open_issues": 111,
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3908,
+            "stars": 3909,
             "topics": [
               "ansible",
               "ansible-dev-tools",
@@ -181,7 +181,7 @@
             "open_issues": 312,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2700,
+            "stars": 2702,
             "topics": [
               "appsec",
               "cloudnative",
@@ -266,7 +266,7 @@
             "open_issues": 5,
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "ansible",
               "ansible-playbook",
@@ -295,7 +295,7 @@
             "open_issues": 102,
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "ansible",
               "ansible-commands",
@@ -351,7 +351,7 @@
             "open_issues": 19,
             "owner": "mantl",
             "repo": "terraform.py",
-            "stars": 452,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -419,7 +419,7 @@
             "id": 213608689,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T02:30:04Z",
+            "last_commit": "2026-09-19T06:47:08Z",
             "open_issues": 4,
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
@@ -470,7 +470,7 @@
             "id": 670234900,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:11:48Z",
+            "last_commit": "2026-09-18T22:52:34Z",
             "open_issues": 9,
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "arhuman",
             "repo": "ansible-static-lint",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "ansible",
               "ansible-lint",
@@ -679,7 +679,7 @@
             "open_issues": 66,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "assertions",
               "bdd",
@@ -877,7 +877,7 @@
             "language": "Jinja",
             "license": "Unlicense",
             "last_commit": "2026-09-18T15:10:23Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 91,
@@ -1010,11 +1010,11 @@
                 "id": 655492,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T17:33:31Z",
+                "last_commit": "2026-09-19T09:35:14Z",
                 "open_issues": 12,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7228,
+                "stars": 7229,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:59:14.171Z",
+    "last_updated": "2026-09-19T18:33:21.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
