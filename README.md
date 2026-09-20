@@ -59,7 +59,7 @@ For more information about communication, see the [Ansible communication guide](
 
 > Tutorials and courses to learn Ansible.
 
-* [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,885 | 🐛 119 | 🌐 Python | 📅 2025-05-25 - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
+* [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,886 | 🐛 119 | 🌐 Python | 📅 2025-05-25 - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
 * [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) ⭐ 2,295 | 🐛 9 | 🌐 Shell | 📅 2023-09-20 - 12 Step Tutorial for Ansible.
 * [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible) - This Tutorial goes over how to use Ansible to manage remote servers.
 * [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
@@ -96,14 +96,14 @@ For more information about communication, see the [Ansible communication guide](
 
 > Tools for and using Ansible.
 
-* [AWX](https://github.com/ansible/awx) ⭐ 15,562 | 🐛 1,872 | 🌐 Python | 📅 2026-09-18 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
-* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,155 | 🐛 1,031 | 🌐 Go | 📅 2026-09-19 - Modern UI for managing and running Ansible playbooks.
-* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,909 | 🐛 111 | 🌐 Python | 📅 2026-09-19 - Checks Playbooks for best practices and behavior that could potentially be improved.
-* [kics](https://github.com/Checkmarx/kics) ⭐ 2,702 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-17 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+* [AWX](https://github.com/ansible/awx) ⭐ 15,563 | 🐛 1,872 | 🌐 Python | 📅 2026-09-18 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
+* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,160 | 🐛 1,029 | 🌐 Go | 📅 2026-09-20 - Modern UI for managing and running Ansible playbooks.
+* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,909 | 🐛 110 | 🌐 Python | 📅 2026-09-20 - Checks Playbooks for best practices and behavior that could potentially be improved.
+* [kics](https://github.com/Checkmarx/kics) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-17 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 * [ARA](https://github.com/ansible-community/ara) ⭐ 2,020 | 🐛 133 | 🌐 Python | 📅 2026-07-13 - Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 * [ansible-runner](https://github.com/ansible/ansible-runner) ⭐ 1,085 | 🐛 105 | 🌐 Python | 📅 2026-09-10 - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 * [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) ⭐ 762 | 🐛 5 | 🌐 Python | 📅 2026-09-03 - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
-* [ansible-navigator](https://github.com/ansible/ansible-navigator) ⭐ 549 | 🐛 102 | 🌐 Python | 📅 2026-09-16 - A text-based user interface (TUI) for Ansible.
+* [ansible-navigator](https://github.com/ansible/ansible-navigator) ⭐ 550 | 🐛 102 | 🌐 Python | 📅 2026-09-16 - A text-based user interface (TUI) for Ansible.
 * [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) ⭐ 470 | 🐛 12 | 🌐 Python | 📅 2026-02-26 - Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.
 * [terraform.py](https://github.com/mantl/terraform.py) ⚠️ Archived - Ansible dynamic inventory script for parsing Terraform state files.
 * [TD4A](https://github.com/cidrblock/td4a) ⭐ 221 | 🐛 5 | 🌐 CSS | 📅 2023-12-19 - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
@@ -111,9 +111,9 @@ For more information about communication, see the [Ansible communication guide](
 * [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) ⭐ 157 | 🐛 4 | 🌐 Python | 📅 2026-09-19 - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 * [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2020-09-22 - Turn any Excel Spreadsheet into an Ansible Inventory.
 * [aar-doc - Automated Ansible Role Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) ⭐ 54 | 🐛 9 | 🌐 Python | 📅 2026-09-18 - Generate documentation automatically from an Ansible role's metadata.
-* [ansible-static-lint](https://github.com/arhuman/ansible-static-lint) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-09-12 - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
+* [ansible-static-lint](https://github.com/arhuman/ansible-static-lint) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2026-09-12 - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
 * [ansibledb](https://github.com/nbentoumi/ansibledb) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-08 - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
-* [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-08-29 - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
+* [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-09-20 - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 * [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) ⭐ 17 | 🐛 5 | 🌐 Python | 📅 2024-02-27 - A tool that extracts documentation from Ansible modules in the HTML form.
 * [ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
 * [antsichaut](https://github.com/ansible-community/antsichaut) ⭐ 5 | 🐛 8 | 🌐 Python | 📅 2026-09-14 - Automate the filling of a changelog.yaml used by antsibull-changelog.
@@ -182,8 +182,8 @@ For more information about communication, see the [Ansible communication guide](
   * [Ansible vim](https://github.com/pearofducks/ansible-vim) ⭐ 822 | 🐛 2 | 🌐 Vim Script | 📅 2026-05-20 - A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
   * [Ansible vim and neovim plugin](https://www.npmjs.com/package/@yaegassy/coc-ansible) - A vim plugin (lsp client) for Ansible, it supports autocompletion, syntax highlighting, hover, diagnostics, and goto support.
 * [Emacs](https://www.gnu.org/software/emacs/) - A free, open-source text editor and IDE that supports auto-indentation, syntax highlighting and a built in terminal shell (among other things):
-  * [magit-mode](https://github.com/magit/magit) ⭐ 7,229 | 🐛 12 | 🌐 Emacs Lisp | 📅 2026-09-19 - Git porcelain within Emacs.
-  * [yaml-mode](https://github.com/yoshiki/yaml-mode) ⭐ 521 | 🐛 17 | 🌐 Emacs Lisp | 📅 2026-08-30 - YAML highlighting and syntax checking.
+  * [magit-mode](https://github.com/magit/magit) ⭐ 7,230 | 🐛 12 | 🌐 Emacs Lisp | 📅 2026-09-20 - Git porcelain within Emacs.
+  * [yaml-mode](https://github.com/yoshiki/yaml-mode) ⭐ 522 | 🐛 17 | 🌐 Emacs Lisp | 📅 2026-08-30 - YAML highlighting and syntax checking.
   * [jinja2-mode](https://github.com/paradoxxxzero/jinja2-mode) ⭐ 73 | 🐛 12 | 🌐 Emacs Lisp | 📅 2023-12-27 - Jinja2 highlighting and syntax checking.
   * [flymake-ansible-lint](https://github.com/jamescherti/flymake-ansible-lint.el) ⭐ 11 | 🐛 1 | 🌐 Emacs Lisp | 📅 2026-08-26 - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
   * [lsp-mode](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Ansible Language Server Protocol support for Emacs: provides syntax highlighting, auto-completion and diagnostics.
@@ -197,4 +197,4 @@ For more information about communication, see the [Ansible communication guide](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9885,
+            "stars": 9886,
             "topics": [
               "amazon",
               "ansible",
@@ -85,7 +85,7 @@
             "open_issues": 1872,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15562,
+            "stars": 15563,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-19T12:10:25Z",
-            "open_issues": 1031,
+            "last_commit": "2026-09-20T10:45:55Z",
+            "open_issues": 1029,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14155,
+            "stars": 14160,
             "topics": [
               "ansible",
               "awx",
@@ -148,8 +148,8 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T11:00:08Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-20T15:01:00Z",
+            "open_issues": 110,
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3909,
@@ -181,7 +181,7 @@
             "open_issues": 312,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2702,
+            "stars": 2704,
             "topics": [
               "appsec",
               "cloudnative",
@@ -295,7 +295,7 @@
             "open_issues": 102,
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "ansible",
               "ansible-commands",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "arhuman",
             "repo": "ansible-static-lint",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "ansible",
               "ansible-lint",
@@ -553,8 +553,8 @@
             "id": 1026873192,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T00:48:50Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-20T01:36:11Z",
+            "open_issues": 1,
             "owner": "foundata",
             "repo": "ansible-docsmith",
             "stars": 24,
@@ -1010,11 +1010,11 @@
                 "id": 655492,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T09:35:14Z",
+                "last_commit": "2026-09-20T18:10:16Z",
                 "open_issues": 12,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7229,
+                "stars": 7230,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1035,7 +1035,7 @@
                 "open_issues": 17,
                 "owner": "yoshiki",
                 "repo": "yaml-mode",
-                "stars": 521,
+                "stars": 522,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:33:21.931Z",
+    "last_updated": "2026-09-20T18:41:19.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
