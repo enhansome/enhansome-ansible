@@ -19,7 +19,7 @@
             "open_issues": 120,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9908,
+            "stars": 9907,
             "topics": [
               "amazon",
               "ansible",
@@ -85,7 +85,7 @@
             "open_issues": 1891,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15575,
+            "stars": 15576,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-03T17:12:24Z",
+            "last_commit": "2026-10-04T08:37:58Z",
             "open_issues": 1041,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14230,
+            "stars": 14233,
             "topics": [
               "ansible",
               "awx",
@@ -148,11 +148,11 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T17:56:07Z",
-            "open_issues": 115,
+            "last_commit": "2026-10-04T04:42:10Z",
+            "open_issues": 116,
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3915,
+            "stars": 3917,
             "topics": [
               "ansible",
               "ansible-dev-tools",
@@ -295,7 +295,7 @@
             "open_issues": 102,
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "ansible",
               "ansible-commands",
@@ -679,7 +679,7 @@
             "open_issues": 73,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3352,
+            "stars": 3353,
             "topics": [
               "assertions",
               "bdd",
@@ -1010,11 +1010,11 @@
                 "id": 655492,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T17:59:46Z",
+                "last_commit": "2026-10-03T21:18:27Z",
                 "open_issues": 10,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7236,
+                "stars": 7238,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:09:54.202Z",
+    "last_updated": "2026-10-04T19:31:21.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
