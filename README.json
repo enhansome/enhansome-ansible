@@ -19,7 +19,7 @@
             "open_issues": 120,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9915,
+            "stars": 9916,
             "topics": [
               "amazon",
               "ansible",
@@ -81,11 +81,11 @@
             "id": 91594105,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T12:02:11Z",
+            "last_commit": "2026-10-10T01:31:23Z",
             "open_issues": 1914,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15584,
+            "stars": 15585,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T19:48:42Z",
+            "last_commit": "2026-10-10T19:23:01Z",
             "open_issues": 1059,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14245,
+            "stars": 14250,
             "topics": [
               "ansible",
               "awx",
@@ -152,7 +152,7 @@
             "open_issues": 113,
             "owner": "ansible",
             "repo": "ansible-lint",
-            "stars": 3920,
+            "stars": 3919,
             "topics": [
               "ansible",
               "ansible-dev-tools",
@@ -181,7 +181,7 @@
             "open_issues": 310,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2717,
+            "stars": 2716,
             "topics": [
               "appsec",
               "cloudnative",
@@ -245,7 +245,7 @@
             "open_issues": 106,
             "owner": "ansible",
             "repo": "ansible-runner",
-            "stars": 1086,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -470,7 +470,7 @@
             "id": 670234900,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T07:44:59Z",
+            "last_commit": "2026-10-10T10:25:41Z",
             "open_issues": 8,
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
@@ -679,7 +679,7 @@
             "open_issues": 78,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3356,
+            "stars": 3355,
             "topics": [
               "assertions",
               "bdd",
@@ -764,7 +764,7 @@
             "id": 27195864,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T12:14:01Z",
+            "last_commit": "2026-10-10T06:43:44Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-ansible",
@@ -1010,7 +1010,7 @@
                 "id": 655492,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T13:17:39Z",
+                "last_commit": "2026-10-10T19:07:51Z",
                 "open_issues": 9,
                 "owner": "magit",
                 "repo": "magit",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:46:16.211Z",
+    "last_updated": "2026-10-10T19:59:23.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
