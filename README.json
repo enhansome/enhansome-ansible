@@ -19,7 +19,7 @@
             "open_issues": 120,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9936,
+            "stars": 9937,
             "topics": [
               "amazon",
               "ansible",
@@ -85,7 +85,7 @@
             "open_issues": 1928,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15603,
+            "stars": 15604,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T12:22:47Z",
-            "open_issues": 1047,
+            "last_commit": "2026-10-25T13:58:11Z",
+            "open_issues": 1049,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14299,
+            "stars": 14311,
             "topics": [
               "ansible",
               "awx",
@@ -148,7 +148,7 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T16:31:52Z",
+            "last_commit": "2026-10-25T17:22:05Z",
             "open_issues": 124,
             "owner": "ansible",
             "repo": "ansible-lint",
@@ -178,7 +178,7 @@
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T17:12:42Z",
-            "open_issues": 315,
+            "open_issues": 317,
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2726,
@@ -764,7 +764,7 @@
             "id": 27195864,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T09:43:55Z",
+            "last_commit": "2026-10-24T20:53:55Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-ansible",
@@ -876,7 +876,7 @@
             "id": 457700403,
             "language": "Jinja",
             "license": "Unlicense",
-            "last_commit": "2026-10-24T10:28:25Z",
+            "last_commit": "2026-10-25T16:17:03Z",
             "open_issues": 43,
             "owner": "Linuxfabrik",
             "repo": "lfops",
@@ -1014,7 +1014,7 @@
                 "open_issues": 9,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7243,
+                "stars": 7245,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:43:31.715Z",
+    "last_updated": "2026-10-25T18:53:54.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
