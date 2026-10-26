@@ -81,11 +81,11 @@
             "id": 91594105,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T14:00:57Z",
-            "open_issues": 1928,
+            "last_commit": "2026-10-26T19:59:26Z",
+            "open_issues": 1931,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15604,
+            "stars": 15606,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T13:58:11Z",
-            "open_issues": 1049,
+            "last_commit": "2026-10-26T19:55:44Z",
+            "open_issues": 1051,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14311,
+            "stars": 14325,
             "topics": [
               "ansible",
               "awx",
@@ -148,8 +148,8 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T17:22:05Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-26T09:00:03Z",
+            "open_issues": 126,
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3924,
@@ -177,8 +177,8 @@
             "id": 278200746,
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T17:12:42Z",
-            "open_issues": 317,
+            "last_commit": "2026-10-26T17:36:44Z",
+            "open_issues": 318,
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2726,
@@ -266,7 +266,7 @@
             "open_issues": 8,
             "owner": "haidaraM",
             "repo": "ansible-playbook-grapher",
-            "stars": 765,
+            "stars": 766,
             "topics": [
               "ansible",
               "ansible-playbook",
@@ -291,8 +291,8 @@
             "id": 320052445,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T15:38:35Z",
-            "open_issues": 104,
+            "last_commit": "2026-10-26T06:03:27Z",
+            "open_issues": 103,
             "owner": "ansible",
             "repo": "ansible-navigator",
             "stars": 557,
@@ -330,7 +330,7 @@
             "open_issues": 12,
             "owner": "willthames",
             "repo": "ansible-inventory-grapher",
-            "stars": 469,
+            "stars": 470,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -419,7 +419,7 @@
             "id": 213608689,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T16:49:05Z",
+            "last_commit": "2026-10-26T05:46:45Z",
             "open_issues": 6,
             "owner": "thegeeklab",
             "repo": "ansible-doctor",
@@ -470,7 +470,7 @@
             "id": 670234900,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:05:19Z",
+            "last_commit": "2026-10-26T19:35:55Z",
             "open_issues": 10,
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
@@ -519,6 +519,32 @@
         },
         {
           "node_type": "item",
+          "title": "Ansible DocSmith",
+          "description": "Generates Ansible role documentation from argument_specs.yml for READMEs and default variable files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automating Ansible role documentation (using argument_specs.yml)",
+            "homepage": "https://foundata.com/en/projects/ansible-docsmith/",
+            "id": 1026873192,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-12T22:15:38Z",
+            "open_issues": 0,
+            "owner": "foundata",
+            "repo": "ansible-docsmith",
+            "stars": 26,
+            "topics": [
+              "ansible",
+              "documentation",
+              "pip",
+              "toolbox"
+            ]
+          },
+          "first_seen": "2026-08-29T00:31:41.776Z"
+        },
+        {
+          "node_type": "item",
           "title": "ansibledb",
           "description": "Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.",
           "children": [],
@@ -537,32 +563,6 @@
             "topics": [
               "ansible",
               "ansibledb"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ansible DocSmith",
-          "description": "Generates Ansible role documentation from argument_specs.yml for READMEs and default variable files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Automating Ansible role documentation (using argument_specs.yml)",
-            "homepage": "https://foundata.com/en/projects/ansible-docsmith/",
-            "id": 1026873192,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-10-12T22:15:38Z",
-            "open_issues": 0,
-            "owner": "foundata",
-            "repo": "ansible-docsmith",
-            "stars": 25,
-            "topics": [
-              "ansible",
-              "documentation",
-              "pip",
-              "toolbox"
             ]
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -606,7 +606,7 @@
             "id": 1224669495,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T14:00:57Z",
+            "last_commit": "2026-10-26T11:04:44Z",
             "open_issues": 0,
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
@@ -648,7 +648,7 @@
             "id": 371398543,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:13:56Z",
+            "last_commit": "2026-10-26T18:11:17Z",
             "open_issues": 8,
             "owner": "ansible-community",
             "repo": "antsichaut",
@@ -679,7 +679,7 @@
             "open_issues": 85,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3366,
+            "stars": 3367,
             "topics": [
               "assertions",
               "bdd",
@@ -764,11 +764,11 @@
             "id": 27195864,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T20:53:55Z",
+            "last_commit": "2026-10-26T12:52:04Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-ansible",
-            "stars": 1562,
+            "stars": 1563,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -820,7 +820,7 @@
             "id": 193971997,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:31:44Z",
+            "last_commit": "2026-10-25T20:45:18Z",
             "open_issues": 45,
             "owner": "bluebanquise",
             "repo": "bluebanquise",
@@ -876,8 +876,8 @@
             "id": 457700403,
             "language": "Jinja",
             "license": "Unlicense",
-            "last_commit": "2026-10-25T16:17:03Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-26T18:31:02Z",
+            "open_issues": 45,
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 96,
@@ -1014,7 +1014,7 @@
                 "open_issues": 9,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7245,
+                "stars": 7246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1073,7 +1073,7 @@
                 "id": 856023942,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T14:26:12Z",
+                "last_commit": "2026-10-25T19:23:34Z",
                 "open_issues": 1,
                 "owner": "jamescherti",
                 "repo": "flymake-ansible-lint.el",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:53:54.634Z",
+    "last_updated": "2026-10-26T20:58:40.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
@@ -1107,7 +1107,7 @@
       "open_issues": 7,
       "owner": "ansible-community",
       "repo": "awesome-ansible",
-      "stars": 1961,
+      "stars": 1963,
       "topics": [
         "ansible",
         "awesome",
