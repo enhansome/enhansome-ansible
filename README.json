@@ -19,7 +19,7 @@
             "open_issues": 120,
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9942,
+            "stars": 9944,
             "topics": [
               "amazon",
               "ansible",
@@ -81,11 +81,11 @@
             "id": 91594105,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T12:51:25Z",
-            "open_issues": 1939,
+            "last_commit": "2026-11-04T21:05:41Z",
+            "open_issues": 1943,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15619,
+            "stars": 15620,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-03T21:01:57Z",
-            "open_issues": 1065,
+            "last_commit": "2026-11-04T19:34:34Z",
+            "open_issues": 1062,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14365,
+            "stars": 14372,
             "topics": [
               "ansible",
               "awx",
@@ -148,8 +148,8 @@
             "id": 12106931,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T16:41:57Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-04T13:23:26Z",
+            "open_issues": 118,
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3932,
@@ -177,11 +177,11 @@
             "id": 278200746,
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T14:55:26Z",
-            "open_issues": 320,
+            "last_commit": "2026-11-04T17:12:14Z",
+            "open_issues": 322,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2731,
+            "stars": 2732,
             "topics": [
               "appsec",
               "cloudnative",
@@ -245,7 +245,7 @@
             "open_issues": 107,
             "owner": "ansible",
             "repo": "ansible-runner",
-            "stars": 1088,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -295,7 +295,7 @@
             "open_issues": 103,
             "owner": "ansible",
             "repo": "ansible-navigator",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "ansible",
               "ansible-commands",
@@ -610,7 +610,7 @@
             "open_issues": 0,
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ansible",
               "ansible-playbook",
@@ -656,6 +656,42 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
+        },
+        {
+          "node_type": "item",
+          "title": "speedrunner",
+          "description": "Cuts the start-up time of , and other Ansible commands by serving them from a preloaded daemon, which helps scripts that call them many times.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call. A checks script: 24.0 s → 5.3 s, same output. No per-tool config, one binary, Linux and macOS.",
+            "homepage": null,
+            "id": 1437817890,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-04T21:26:30Z",
+            "open_issues": 3,
+            "owner": "anthonyGosme",
+            "repo": "speedrunner",
+            "stars": 4,
+            "topics": [
+              "cli",
+              "command-line",
+              "daemon",
+              "developer-tools",
+              "fork",
+              "linux",
+              "nodejs",
+              "performance",
+              "php",
+              "preload",
+              "python",
+              "ruby",
+              "rust",
+              "startup-time"
+            ]
+          },
+          "first_seen": "2026-11-04T21:48:02.293Z"
         }
       ],
       "title": "Tools"
@@ -768,7 +804,7 @@
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-ansible",
-            "stars": 1564,
+            "stars": 1563,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:41.776Z"
@@ -820,7 +856,7 @@
             "id": 193971997,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:44:12Z",
+            "last_commit": "2026-11-04T07:58:13Z",
             "open_issues": 47,
             "owner": "bluebanquise",
             "repo": "bluebanquise",
@@ -876,8 +912,8 @@
             "id": 457700403,
             "language": "Jinja",
             "license": "Unlicense",
-            "last_commit": "2026-11-03T20:25:23Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-04T18:54:54Z",
+            "open_issues": 54,
             "owner": "Linuxfabrik",
             "repo": "lfops",
             "stars": 96,
@@ -1014,7 +1050,7 @@
                 "open_issues": 9,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7252,
+                "stars": 7253,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1095,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:40:49.325Z",
+    "last_updated": "2026-11-04T21:48:02.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
@@ -1103,11 +1139,11 @@
       "id": 111399581,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-29T06:50:43Z",
-      "open_issues": 9,
+      "last_commit": "2026-11-04T08:52:04Z",
+      "open_issues": 8,
       "owner": "ansible-community",
       "repo": "awesome-ansible",
-      "stars": 1967,
+      "stars": 1968,
       "topics": [
         "ansible",
         "awesome",
@@ -1116,7 +1152,7 @@
         "learning-ansible"
       ]
     },
-    "original_repository_sha": "3db49feb4df005b56ee7feddb412209962ea4a40",
+    "original_repository_sha": "4fba958a44e73f304e751f42315f099082a9f563",
     "enhanced_repository": "enhansome/enhansome-ansible",
     "enhanced_repository_description": null,
     "title": "Awesome Ansible with stars"
