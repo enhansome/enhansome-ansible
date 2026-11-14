@@ -96,9 +96,9 @@ For more information about communication, see the [Ansible communication guide](
 
 > Tools for and using Ansible.
 
-* [AWX](https://github.com/ansible/awx) ⭐ 15,625 | 🐛 1,942 | 🌐 Python | 📅 2026-11-13 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
-* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,409 | 🐛 1,068 | 🌐 Go | 📅 2026-11-13 - Modern UI for managing and running Ansible playbooks.
-* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,938 | 🐛 128 | 🌐 Python | 📅 2026-11-13 - Checks Playbooks for best practices and behavior that could potentially be improved.
+* [AWX](https://github.com/ansible/awx) ⭐ 15,626 | 🐛 1,942 | 🌐 Python | 📅 2026-11-13 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
+* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,411 | 🐛 1,068 | 🌐 Go | 📅 2026-11-14 - Modern UI for managing and running Ansible playbooks.
+* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,938 | 🐛 130 | 🌐 Python | 📅 2026-11-13 - Checks Playbooks for best practices and behavior that could potentially be improved.
 * [kics](https://github.com/Checkmarx/kics) ⭐ 2,743 | 🐛 330 | 🌐 Open Policy Agent | 📅 2026-11-10 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 * [ARA](https://github.com/ansible-community/ara) ⭐ 2,025 | 🐛 133 | 🌐 Python | 📅 2026-07-13 - Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 * [ansible-runner](https://github.com/ansible/ansible-runner) ⭐ 1,088 | 🐛 104 | 🌐 Python | 📅 2026-11-12 - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
@@ -116,7 +116,7 @@ For more information about communication, see the [Ansible communication guide](
 * [ansibledb](https://github.com/nbentoumi/ansibledb) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-08 - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
 * [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) ⭐ 18 | 🐛 5 | 🌐 Python | 📅 2024-02-27 - A tool that extracts documentation from Ansible modules in the HTML form.
 * [speedrunner](https://github.com/anthonyGosme/speedrunner) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - Cuts the start-up time of `ansible`, `ansible-doc` and other Ansible commands by serving them from a preloaded daemon, which helps scripts that call them many times.
-* [ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
+* [ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
 * [antsichaut](https://github.com/ansible-community/antsichaut) ⭐ 5 | 🐛 8 | 🌐 Python | 📅 2026-11-09 - Automate the filling of a changelog.yaml used by antsibull-changelog.
 * [ansible-vars](https://github.com/xorwow/ansible-vars) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-12-05 - `ansible-vault` replacement that supports encrypting individual vault variables.
 * [Automation Controller](https://www.ansible.com/products/controller) - Formerly Ansible Tower, this Red Hat product helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
@@ -199,4 +199,4 @@ For more information about communication, see the [Ansible communication guide](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

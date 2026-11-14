@@ -85,7 +85,7 @@
             "open_issues": 1942,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15625,
+            "stars": 15626,
             "topics": [
               "ansible",
               "automation",
@@ -111,11 +111,11 @@
             "id": 23267883,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-13T08:53:25Z",
+            "last_commit": "2026-11-14T16:49:47Z",
             "open_issues": 1068,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14409,
+            "stars": 14411,
             "topics": [
               "ansible",
               "awx",
@@ -149,7 +149,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-13T04:44:15Z",
-            "open_issues": 128,
+            "open_issues": 130,
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3938,
@@ -644,11 +644,11 @@
             "id": 1224669495,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T14:08:53Z",
+            "last_commit": "2026-11-14T14:57:11Z",
             "open_issues": 0,
             "owner": "cpeoples",
             "repo": "ansible-security-scanner",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "ansible",
               "ansible-playbook",
@@ -848,7 +848,7 @@
             "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 782,
+            "stars": 781,
             "topics": [
               "ansible",
               "bash",
@@ -1154,7 +1154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:54:23.478Z",
+    "last_updated": "2026-11-14T20:36:11.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
@@ -1166,7 +1166,7 @@
       "open_issues": 7,
       "owner": "ansible-community",
       "repo": "awesome-ansible",
-      "stars": 1974,
+      "stars": 1973,
       "topics": [
         "ansible",
         "awesome",
