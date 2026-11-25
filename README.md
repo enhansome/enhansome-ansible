@@ -96,19 +96,19 @@ For more information about communication, see the [Ansible communication guide](
 
 > Tools for and using Ansible.
 
-* [AWX](https://github.com/ansible/awx) ⭐ 15,641 | 🐛 1,943 | 🌐 Python | 📅 2026-11-23 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
-* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,450 | 🐛 1,069 | 🌐 Go | 📅 2026-11-23 - Modern UI for managing and running Ansible playbooks.
-* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,939 | 🐛 135 | 🌐 Python | 📅 2026-11-23 - Checks Playbooks for best practices and behavior that could potentially be improved.
-* [kics](https://github.com/Checkmarx/kics) ⭐ 2,751 | 🐛 338 | 🌐 Open Policy Agent | 📅 2026-11-23 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+* [AWX](https://github.com/ansible/awx) ⭐ 15,644 | 🐛 1,941 | 🌐 Python | 📅 2026-11-25 - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
+* [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) ⭐ 14,455 | 🐛 1,069 | 🌐 Go | 📅 2026-11-24 - Modern UI for managing and running Ansible playbooks.
+* [Ansible Lint](https://github.com/ansible/ansible-lint) ⭐ 3,940 | 🐛 135 | 🌐 Python | 📅 2026-11-24 - Checks Playbooks for best practices and behavior that could potentially be improved.
+* [kics](https://github.com/Checkmarx/kics) ⭐ 2,752 | 🐛 348 | 🌐 Open Policy Agent | 📅 2026-11-24 - SAST Tool that scans your Ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 * [ARA](https://github.com/ansible-community/ara) ⭐ 2,025 | 🐛 133 | 🌐 Python | 📅 2026-07-13 - Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 * [ansible-runner](https://github.com/ansible/ansible-runner) ⭐ 1,088 | 🐛 104 | 🌐 Python | 📅 2026-11-12 - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
-* [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) ⭐ 767 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
-* [ansible-navigator](https://github.com/ansible/ansible-navigator) ⭐ 563 | 🐛 107 | 🌐 Python | 📅 2026-11-23 - A text-based user interface (TUI) for Ansible.
+* [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) ⭐ 768 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+* [ansible-navigator](https://github.com/ansible/ansible-navigator) ⭐ 563 | 🐛 104 | 🌐 Python | 📅 2026-11-24 - A text-based user interface (TUI) for Ansible.
 * [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) ⭐ 471 | 🐛 12 | 🌐 Python | 📅 2026-02-26 - Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.
 * [terraform.py](https://github.com/mantl/terraform.py) ⚠️ Archived - Ansible dynamic inventory script for parsing Terraform state files.
 * [TD4A](https://github.com/cidrblock/td4a) ⭐ 223 | 🐛 5 | 🌐 CSS | 📅 2023-12-19 - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
 * [php-ansible Library](https://github.com/maschmann/php-ansible) ⭐ 215 | 🐛 8 | 🌐 PHP | 📅 2026-03-25 - OOP-Wrapper for Ansible, making Ansible available in PHP.
-* [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2026-11-23 - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+* [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) ⭐ 158 | 🐛 7 | 🌐 Python | 📅 2026-11-24 - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 * [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2020-09-22 - Turn any Excel Spreadsheet into an Ansible Inventory.
 * [aar-doc - Automated Ansible Role Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2026-11-18 - Generate documentation automatically from an Ansible role's metadata.
 * [ansible-static-lint](https://github.com/arhuman/ansible-static-lint) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2026-11-13 - Fast, offline static linter for playbooks written in Go, implementing a subset of ansible-lint rules without requiring Python or an Ansible runtime.
@@ -138,7 +138,7 @@ For more information about communication, see the [Ansible communication guide](
 
 > Best practices and other opinions on Ansible.
 
-* [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/) ⭐ 3,385 | 🐛 74 | 🌐 PowerShell | 📅 2026-11-12.
+* [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/) ⭐ 3,386 | 🐛 75 | 🌐 PowerShell | 📅 2026-11-12.
 * [Enhancing Ansible Development with SOLID Principles](https://github.com/kksat/SOLID-Ansible) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2024-12-03 - Discover how the fundamental principles of SOLID—Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion—can significantly elevate your Ansible role and playbook development.
 * [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
 * [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).
@@ -160,11 +160,11 @@ For more information about communication, see the [Ansible communication guide](
 > Awesome production ready Playbooks, Roles and Collections to get you up and running.
 
 * [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) ⭐ 2,103 | 🐛 1 | 📅 2023-11-17 - Ansible examples using Vagrant to deploy to local VMs.
-* [Openstack Ansible](https://github.com/openstack/openstack-ansible) ⭐ 1,567 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
+* [Openstack Ansible](https://github.com/openstack/openstack-ansible) ⭐ 1,568 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 * [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) ⚠️ Archived - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
-* [BlueBanquise](https://github.com/bluebanquise/bluebanquise) ⭐ 165 | 🐛 45 | 🌐 Python | 📅 2026-11-23 - An Ansible coherent roles collection to deploy clusters.
+* [BlueBanquise](https://github.com/bluebanquise/bluebanquise) ⭐ 166 | 🐛 46 | 🌐 Python | 📅 2026-11-24 - An Ansible coherent roles collection to deploy clusters.
 * [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) ⭐ 113 | 🐛 0 | 🌐 HTML | 📅 2021-01-03 - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
-* [Linuxfabrik LFOps](https://github.com/Linuxfabrik/lfops) ⭐ 97 | 🐛 97 | 🌐 Jinja | 📅 2026-11-23 - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
+* [Linuxfabrik LFOps](https://github.com/Linuxfabrik/lfops) ⭐ 97 | 🐛 96 | 🌐 Jinja | 📅 2026-11-24 - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
 * [ansible-ssm](https://github.com/HQarroum/ansible-ssm) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2022-04-09 - An Ansible role to provision physical and virtual hosts with the AWS SSM agent.
 * [Ansible Lockdown](https://github.com/ansible-lockdown) - Ansible content to assist in both auditing and remediating against [CIS](https://www.cisecurity.org/#/) or [STIG](https://public.cyber.mil/stigs/) baseline compliance for OS's and Applications.
 * [DevSec Hardening Framework](https://dev-sec.io/) - The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.
@@ -200,4 +200,4 @@ For more information about communication, see the [Ansible communication guide](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
