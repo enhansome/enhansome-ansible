@@ -82,10 +82,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-26T00:01:59Z",
-            "open_issues": 1942,
+            "open_issues": 1944,
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15647,
+            "stars": 15649,
             "topics": [
               "ansible",
               "automation",
@@ -112,10 +112,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-25T15:56:18Z",
-            "open_issues": 1070,
+            "open_issues": 1069,
             "owner": "semaphoreui",
             "repo": "semaphore",
-            "stars": 14463,
+            "stars": 14466,
             "topics": [
               "ansible",
               "awx",
@@ -149,7 +149,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-25T19:18:28Z",
-            "open_issues": 136,
+            "open_issues": 138,
             "owner": "ansible",
             "repo": "ansible-lint",
             "stars": 3940,
@@ -177,11 +177,11 @@
             "id": 278200746,
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T16:11:08Z",
+            "last_commit": "2026-11-26T18:00:09Z",
             "open_issues": 348,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2752,
+            "stars": 2754,
             "topics": [
               "appsec",
               "cloudnative",
@@ -470,7 +470,7 @@
             "id": 670234900,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T22:19:33Z",
+            "last_commit": "2026-11-26T14:59:24Z",
             "open_issues": 6,
             "owner": "telekom-mms",
             "repo": "Automated-Ansible-Role-Documentation",
@@ -583,7 +583,7 @@
             "open_issues": 0,
             "owner": "anthonyGosme",
             "repo": "speedrunner",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "cli",
               "cli-tool",
@@ -734,11 +734,11 @@
             "id": 1213474,
             "language": "PowerShell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T18:17:48Z",
-            "open_issues": 75,
+            "last_commit": "2026-11-26T21:05:04Z",
+            "open_issues": 53,
             "owner": "pester",
             "repo": "Pester",
-            "stars": 3386,
+            "stars": 3387,
             "topics": [
               "assertions",
               "bdd",
@@ -778,224 +778,6 @@
         }
       ],
       "title": "Blog posts and opinions"
-    },
-    {
-      "description": "Awesome production ready Playbooks, Roles and Collections to get you up and running.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ansible Vagrant Examples by geerlingguy",
-          "description": "Ansible examples using Vagrant to deploy to local VMs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ansible examples using Vagrant to deploy to local VMs.",
-            "homepage": null,
-            "id": 17749733,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-11-17T23:32:18Z",
-            "open_issues": 1,
-            "owner": "geerlingguy",
-            "repo": "ansible-vagrant-examples",
-            "stars": 2103,
-            "topics": [
-              "ansible",
-              "devops",
-              "docker",
-              "examples",
-              "ruby",
-              "vagrant",
-              "vms"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Openstack Ansible",
-          "description": "Ansible Playbooks for deploying OpenStack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.",
-            "homepage": "https://opendev.org/openstack/openstack-ansible",
-            "id": 27195864,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-25T15:28:31Z",
-            "open_issues": 0,
-            "owner": "openstack",
-            "repo": "openstack-ansible",
-            "stars": 1568,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "T.A.D.S. boilerplate",
-          "description": "Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code",
-            "homepage": null,
-            "id": 218020487,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2025-02-06T08:50:52Z",
-            "open_issues": 9,
-            "owner": "thomvaill",
-            "repo": "tads-boilerplate",
-            "stars": 779,
-            "topics": [
-              "ansible",
-              "bash",
-              "boilerplate",
-              "devops",
-              "docker",
-              "docker-swarm",
-              "hacktoberfest",
-              "iac",
-              "infrastructure-as-code",
-              "noops",
-              "tads",
-              "terraform",
-              "vagrant"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BlueBanquise",
-          "description": "An Ansible coherent roles collection to deploy clusters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A coherent Ansible roles collection to simply deploy clusters of nodes.",
-            "homepage": "https://bluebanquise.com",
-            "id": 193971997,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-25T17:11:56Z",
-            "open_issues": 44,
-            "owner": "bluebanquise",
-            "repo": "bluebanquise",
-            "stars": 166,
-            "topics": [
-              "ansible",
-              "baremetal",
-              "clusters",
-              "hpc",
-              "linux",
-              "pxe"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ansible playbook for Linux machine setup",
-          "description": "Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple, perfect setup of a Linux machine via Ansible",
-            "homepage": null,
-            "id": 288676115,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2021-01-03T16:34:16Z",
-            "open_issues": 0,
-            "owner": "olivomarco",
-            "repo": "my-ansible-linux-setup",
-            "stars": 113,
-            "topics": [
-              "ansible-playbook",
-              "docker",
-              "hardened",
-              "linux-server",
-              "linux-setup",
-              "perfect-server"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Linuxfabrik LFOps",
-          "description": "An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ansible Collection of roles, playbooks & plugins for Linux-based cloud infrastructure. Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM & more. Bitwarden & Cloud integration.",
-            "homepage": "https://linuxfabrik.ch",
-            "id": 457700403,
-            "language": "Jinja",
-            "license": "Unlicense",
-            "last_commit": "2026-11-25T16:11:04Z",
-            "open_issues": 78,
-            "owner": "Linuxfabrik",
-            "repo": "lfops",
-            "stars": 97,
-            "topics": [
-              "ansible",
-              "ansible-collection",
-              "ansible-playbooks",
-              "ansible-plugins",
-              "ansible-roles",
-              "automation",
-              "cloud",
-              "data-center",
-              "debian",
-              "devops",
-              "hardening",
-              "infrastructure-as-code",
-              "lfops",
-              "linux",
-              "linuxfabrik",
-              "playbook",
-              "rhel",
-              "self-hosted",
-              "sysadmin",
-              "ubuntu"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ansible-ssm",
-          "description": "An Ansible role to provision physical and virtual hosts with the AWS SSM agent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":briefcase: An ansible role to provision physical and virtual hosts with the AWS SSM agent.",
-            "homepage": null,
-            "id": 216971171,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-04-09T14:45:02Z",
-            "open_issues": 1,
-            "owner": "HQarroum",
-            "repo": "ansible-ssm",
-            "stars": 8,
-            "topics": [
-              "ansible",
-              "aws",
-              "industrial-iot",
-              "management",
-              "ssm",
-              "system",
-              "systems-manager"
-            ]
-          },
-          "first_seen": "2026-08-29T00:31:41.776Z"
-        }
-      ],
-      "title": "Playbooks, Roles and Collections"
     },
     {
       "description": "Awesome Integrations into Text Editors and IDE's to make development with/for Ansible easier.",
@@ -1073,7 +855,7 @@
                 "open_issues": 9,
                 "owner": "magit",
                 "repo": "magit",
-                "stars": 7265,
+                "stars": 7266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:41.776Z"
@@ -1154,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:10:01.687Z",
+    "last_updated": "2026-11-27T00:29:34.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ansible List",
@@ -1162,11 +944,11 @@
       "id": 111399581,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-23T12:12:36Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-26T09:11:00Z",
+      "open_issues": 6,
       "owner": "ansible-community",
       "repo": "awesome-ansible",
-      "stars": 1972,
+      "stars": 1973,
       "topics": [
         "ansible",
         "awesome",
@@ -1175,7 +957,7 @@
         "learning-ansible"
       ]
     },
-    "original_repository_sha": "b3a4c78c358d93bc3202c09f18852a15c0f8a13b",
+    "original_repository_sha": "59f47de6cccf3b8c41be3b96bf01fbc25a8cd415",
     "enhanced_repository": "enhansome/enhansome-ansible",
     "enhanced_repository_description": null,
     "title": "Awesome Ansible with stars"
